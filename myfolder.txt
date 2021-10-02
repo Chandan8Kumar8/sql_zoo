@@ -1,4 +1,0 @@
-this is intial commit.
-hello.
-this
-this is master
